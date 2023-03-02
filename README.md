@@ -1,1 +1,2 @@
 # Accenture_Data_Analysis_Virtual_Experience
+I am glad to share that I completed the Accenture Data Analytics and Visualization Virtual Experience. It was indeed a very remarkable experience. It was a great opportunity to learn tools such as Microsoft Excel and skills such as data analysis and data visualization and an insight into data analytics intern at Accenture. It was my first virtual experience and I hope to participate in more
